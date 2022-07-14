@@ -68,7 +68,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 Press the below button to Fast deply to Heroky
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RoyalKrrishna/TG-FileStreamBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RoyalKrrishna/FileStream)
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
 
